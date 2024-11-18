@@ -1,4 +1,4 @@
-## A lightweight overleaf client packaged with project Pake, which is more convenient to use (see release):
+## A lightweight overleaf client packaged by project Pake, which is more convenient to use (see release):
 
 overleaf.deb is for Linux
 
